@@ -1,0 +1,33 @@
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Domain\bin\Debug\net6.0\VENTA.Domain.deps.json
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Domain\bin\Debug\net6.0\VENTA.Domain.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Domain\bin\Debug\net6.0\VENTA.Domain.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Domain\obj\Debug\net6.0\refint\VENTA.Domain.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Domain\obj\Debug\net6.0\ref\VENTA.Domain.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Domain\bin\Debug\net6.0\VENTA.Domain.deps.json
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Domain\bin\Debug\net6.0\VENTA.Domain.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Domain\bin\Debug\net6.0\VENTA.Domain.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\refint\VENTA.Domain.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\ref\VENTA.Domain.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Domain\bin\Debug\net6.0\VENTA.Domain.deps.json
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Domain\bin\Debug\net6.0\VENTA.Domain.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Domain\bin\Debug\net6.0\VENTA.Domain.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.AssemblyInfoInputs.cache
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.AssemblyInfo.cs
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.csproj.CoreCompileInputs.cache
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\refint\VENTA.Domain.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\VENTA.Domain.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Domain\obj\Debug\net6.0\ref\VENTA.Domain.dll

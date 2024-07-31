@@ -1,0 +1,132 @@
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\bin\Debug\net6.0\appsettings.json
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\bin\Debug\net6.0\VENTA.API.exe
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\bin\Debug\net6.0\VENTA.API.deps.json
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\bin\Debug\net6.0\VENTA.API.runtimeconfig.json
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\bin\Debug\net6.0\VENTA.API.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\bin\Debug\net6.0\VENTA.API.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\VENTA.API.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\VENTA.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\VENTA.API.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\VENTA.API.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\VENTA.API.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\VENTA.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\VENTA.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.VENTA.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.build.VENTA.API.props
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VENTA.API.props
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VENTA.API.props
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\scopedcss\bundle\VENTA.API.styles.css
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\VENTA.API.csproj.Up2Date
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\VENTA.API.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\refint\VENTA.API.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\VENTA.API.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\VENTA.API.genruntimeconfig.cache
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.API\obj\Debug\net6.0\ref\VENTA.API.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\appsettings.json
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.API.exe
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.API.deps.json
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.API.runtimeconfig.json
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.API.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.API.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.VENTA.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.build.VENTA.API.props
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VENTA.API.props
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VENTA.API.props
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\scopedcss\bundle\VENTA.API.styles.css
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.csproj.Up2Date
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\refint\VENTA.API.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.genruntimeconfig.cache
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\ref\VENTA.API.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Application.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Domain.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Dto.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Infrastructure.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Application.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Domain.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Infrastructure.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Dto.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\appsettings.Development.json
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\appsettings.json
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.API.exe
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.API.deps.json
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.API.runtimeconfig.json
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.API.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.API.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Dapper.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Application.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Domain.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Dto.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Infrastructure.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Application.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Domain.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Infrastructure.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\bin\Debug\net6.0\VENTA.Dto.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.csproj.AssemblyReference.cache
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.AssemblyInfoInputs.cache
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.AssemblyInfo.cs
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.csproj.CoreCompileInputs.cache
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.MvcApplicationPartsAssemblyInfo.cs
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.MvcApplicationPartsAssemblyInfo.cache
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.VENTA.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.build.VENTA.API.props
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VENTA.API.props
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VENTA.API.props
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\scopedcss\bundle\VENTA.API.styles.css
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.csproj.Up2Date
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\refint\VENTA.API.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\VENTA.API.genruntimeconfig.cache
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.API\obj\Debug\net6.0\ref\VENTA.API.dll

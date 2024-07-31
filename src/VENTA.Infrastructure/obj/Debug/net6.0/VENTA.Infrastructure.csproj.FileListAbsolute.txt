@@ -1,0 +1,41 @@
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Infrastructure.deps.json
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Infrastructure.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Infrastructure.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Infrastructure\obj\Debug\net6.0\refint\VENTA.Infrastructure.dll
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\VENTA.Infrastructure\obj\Debug\net6.0\ref\VENTA.Infrastructure.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.AssemblyInfo.cs
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\refint\VENTA.Infrastructure.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Infrastructure.deps.json
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Infrastructure.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Infrastructure.pdb
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\ref\VENTA.Infrastructure.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.In.98069B76.Up2Date
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Domain.dll
+C:\Users\carpiom\source\repos\VentasApiRest\src\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Domain.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Infrastructure.deps.json
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Infrastructure.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Infrastructure.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Domain.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\bin\Debug\net6.0\VENTA.Domain.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.csproj.AssemblyReference.cache
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.AssemblyInfoInputs.cache
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.AssemblyInfo.cs
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.In.98069B76.Up2Date
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\refint\VENTA.Infrastructure.dll
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\VENTA.Infrastructure.pdb
+C:\01 - Proyectos\Otros\VentasApiRest\VentasApiRest\src\VENTA.Infrastructure\obj\Debug\net6.0\ref\VENTA.Infrastructure.dll

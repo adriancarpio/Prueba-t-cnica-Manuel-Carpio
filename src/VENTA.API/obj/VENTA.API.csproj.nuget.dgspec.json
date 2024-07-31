@@ -1,0 +1,367 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.API\\VENTA.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.API\\VENTA.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.API\\VENTA.API.csproj",
+        "projectName": "VENTA.API",
+        "projectPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.API\\VENTA.API.csproj",
+        "packagesPath": "C:\\Users\\carpiom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carpiom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Application\\VENTA.Application.csproj": {
+                "projectPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Application\\VENTA.Application.csproj"
+              },
+              "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Domain\\VENTA.Domain.csproj": {
+                "projectPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Domain\\VENTA.Domain.csproj"
+              },
+              "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Infrastructure\\VENTA.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Infrastructure\\VENTA.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Application\\VENTA.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Application\\VENTA.Application.csproj",
+        "projectName": "VENTA.Application",
+        "projectPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Application\\VENTA.Application.csproj",
+        "packagesPath": "C:\\Users\\carpiom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carpiom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Dto\\VENTA.Dto.csproj": {
+                "projectPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Dto\\VENTA.Dto.csproj"
+              },
+              "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Infrastructure\\VENTA.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Infrastructure\\VENTA.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Domain\\VENTA.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Domain\\VENTA.Domain.csproj",
+        "projectName": "VENTA.Domain",
+        "projectPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Domain\\VENTA.Domain.csproj",
+        "packagesPath": "C:\\Users\\carpiom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carpiom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Dto\\VENTA.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Dto\\VENTA.Dto.csproj",
+        "projectName": "VENTA.Dto",
+        "projectPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Dto\\VENTA.Dto.csproj",
+        "packagesPath": "C:\\Users\\carpiom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carpiom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Infrastructure\\VENTA.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Infrastructure\\VENTA.Infrastructure.csproj",
+        "projectName": "VENTA.Infrastructure",
+        "projectPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Infrastructure\\VENTA.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\carpiom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carpiom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Domain\\VENTA.Domain.csproj": {
+                "projectPath": "C:\\Users\\carpiom\\source\\repos\\VentasApiRest\\src\\VENTA.Domain\\VENTA.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
